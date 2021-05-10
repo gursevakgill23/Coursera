@@ -276,7 +276,7 @@ tr:nth-child(even) {
 @media (max-width:767px){
     .navbar-brand h1{
     	padding-top:5px;
-      font-size:1.25em;
+      font-size:1em;
     }
 
   #collapsable-nav a{
