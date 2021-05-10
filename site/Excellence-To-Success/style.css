@@ -173,9 +173,6 @@ tr:nth-child(even) {
 
 /*For Large Devices*/
 @media (min-width:1200px){
-	#nav-list{
-		font-size:1.25em;
-	}
 	.jumbotron{
 		background:url('study_1200.jpg') no-repeat;
 		height:675px;
@@ -210,9 +207,6 @@ tr:nth-child(even) {
   right:40px;
   margin: 5px 10px 15px 0;
 
-}
-#nav-list{
-	font-size:0.75em;
 }
    #heading1 { /* Restaurant name */
    font-size: 2em; 
