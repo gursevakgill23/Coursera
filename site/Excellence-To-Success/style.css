@@ -282,7 +282,7 @@ tr:nth-child(even) {
 @media (min-width:250px) and (max-width:767px){
     .navbar-brand h1{
     	padding-top:5px;
-      font-size:1em;
+      font-size:1.25em;
     }
 
   #collapsable-nav a{
@@ -299,7 +299,7 @@ tr:nth-child(even) {
 	color:white;
 	margin-top: 0px;
 	text-align:right;
-	margin-left:80px;
+	margin-left:60px;
   }
   #xs-deliver{
 	color:darkgreen;
