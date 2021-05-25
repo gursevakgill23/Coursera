@@ -201,7 +201,7 @@ tr:nth-child(even) {
 
 }
 /*For Medium Devices*/
-@media (min-width:992px) and (max-width:1199px){
+@media (min-width:992px) and (max-width:1200px){
 	#logo-img {
   background: url('excellence-logo_medium.png') no-repeat;
   width: 100px;
@@ -227,6 +227,7 @@ tr:nth-child(even) {
 .jumbotron{
 		background:url('study_992.jpg') no-repeat;
 		height:558px;
+    width:992px;
 		box-shadow:0 0 50px black;
 		border:2px solid black;
 	}
@@ -306,8 +307,9 @@ tr:nth-child(even) {
 	font-weight:bold;
   }
    .jumbotron{
-   	background:url('study_768.jpg') no-repeat;
-   	height:400px;
+   	background:url('study_400.jpg') no-repeat;
+   	height:251px;
+    width:400px;
   	box-shadow:0 0 50px black;
 	border:2px solid black;
     }
