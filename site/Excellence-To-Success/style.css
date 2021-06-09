@@ -308,7 +308,7 @@ tr:nth-child(even) {
   .jumbotron{
    	background:url('study_400.jpg') no-repeat;
    	height:251px;
-    width:350px;
+    width:400px;
   	box-shadow:0 0 50px black;
 	border:2px solid black;
     }
