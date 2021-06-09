@@ -258,8 +258,11 @@ tr:nth-child(even) {
   .jumbotron{
 		background:url('study_768.jpg') no-repeat;
 		height:482px;
+		width: 768px;
 		box-shadow:0 0 50px black;
 		border:2px solid black;
+		margin: 0 auto;
+		margin-bottom: 10px;
 	}
 	#weekly-test-image img{
 		width:350px;
