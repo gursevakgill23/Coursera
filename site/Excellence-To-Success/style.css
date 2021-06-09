@@ -31,8 +31,6 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   padding-top:10px;
-
-
   line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -248,6 +246,7 @@ tr:nth-child(even) {
 
 }
 /*For  Small Devices*/
+
 @media (min-width:768px) and (max-width:992px){
   #collapsable-nav a{
   	font-size:1em;
@@ -280,7 +279,7 @@ tr:nth-child(even) {
 }
 /*For Extra Small Devices*/
 
-@media (min-width:250px) and (max-width:767px){
+@media (min-width:250px) and (max-width:768px){
     .navbar-brand h1{
     	padding-top:5px;
       font-size:1.25em;
@@ -306,14 +305,14 @@ tr:nth-child(even) {
 	color:darkgreen;
 	font-weight:bold;
   }
-   .jumbotron{
+  .jumbotron{
    	background:url('study_400.jpg') no-repeat;
    	height:251px;
     width:400px;
   	box-shadow:0 0 50px black;
 	border:2px solid black;
     }
-    #weekly-test-image img{
+  #weekly-test-image img{
 		width:250px;
 		height:160px;
 		position: relative;
@@ -323,6 +322,7 @@ tr:nth-child(even) {
 	}
 	#weekly-test-paragraph{
 		font-size:1.25em;
+	
 	}
 	#subjects-table{
 	width:350px;
